@@ -1,8 +1,7 @@
 # EQUILIBRIO-STORY
 Sistema web de gestão comercial e catálogo digital de uma loja de vestuário, desenvolvido com PHP, Laravel e banco de dados.
 
-:::writing{variant="document" id="83152"}
-# Equilíbrio Store
+# Equilíbrio Story
 
 Sistema web de gestão comercial e catálogo digital desenvolvido para uma loja de vestuário.
 
@@ -63,4 +62,4 @@ Em desenvolvimento.
 ## Autor
 
 Desenvolvido como projeto prático de Engenharia de Software e portfólio Full Stack.
-:::Conforme desenvolvermos, vamos atualizar as funcionalidades e substituir as instruções provisórias por procedimentos reais de instalação.
+Conforme desenvolvermos, vamos atualizar as funcionalidades e substituir as instruções provisórias por procedimentos reais de instalação.
